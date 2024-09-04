@@ -1,4 +1,4 @@
-# BCG-Data-Science-Analytics-Virtual-Experience-Program
+# BCG-Churn-Prediction
 <img width="460" alt="image" src="https://github.com/user-attachments/assets/6866ff92-2a00-448e-89b5-d349d757ea76">
 
 
